@@ -5,6 +5,6 @@ class Detention
   # end
   
   def location= (new_location)
-    @location = nenew_location
+    @location = new_location
   end
 end
